@@ -16,7 +16,7 @@ This Python script uses the ESRGAN (Enhanced Super-Resolution Generative Adversa
 
 3. Run the code: Save your code in a `.py` file and run it from the command line using the following command:
     ```shell
-    python your_file_name.py
+    python upscale.py
     ```
 
 ## What the Code Does
